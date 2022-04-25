@@ -1,7 +1,7 @@
 ### Hi there, Here is Souleymane👋
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidchris&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidchris&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
-| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JokerAphro17&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JokerAphro17&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Let Me introduce myself to you ⚡:
 
