@@ -6,10 +6,10 @@
 Let Me introduce myself to you ⚡:
 
 - 🔭 I’m currently working on _Personnel Projects_
-- 🌱 I’m currently learning **Deep learning, Advanced NLP**
-- 👯 I’m looking to collaborate on **Computer Vision Projects**
-- 🤔 I’m looking for help with **fultime Data scientist job**
-- 💬 Ask me about **_Machine Learning, Natural Langage Processing, Deep Learning, Computer Vision_**
+- 🌱 I’m currently learning **Web and Mobile dev**
+- 👯 I’m looking to collaborate on **Computer & mobile Vision Projects**
+- 🤔 I’m looking for help with **fultime Data scientist job and any Js framework**
+- 💬 Ask me about **Web 3.0, _Machine Learning, Natural Langage Processing, Deep Learning, Computer Vision_**
 - 📫 How to reach me: _ilboudosouleymane4@gmail.com_
 - 😄 Pronouns: Aphro
 - ⚡ Fun fact: **_Robotic, Mobie App..._**
