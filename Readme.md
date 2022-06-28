@@ -8,7 +8,7 @@ Let Me introduce myself to you ⚡:
 - 🔭 I’m currently working on _Personnel Projects_
 - 🌱 I’m currently learning **Web and Mobile dev**
 - 👯 I’m looking to collaborate on **Computer & mobile Vision Projects**
-- 🤔 I’m looking for help with **fultime Data scientist job and any Js framework **
+- 🤔 I’m looking for help with **fultime Data scientist job and any Js framework and Laravel**
 - 📫 How to reach me: _ilboudosouleymane4@gmail.com_
 - 😄 Pronouns: Aphro
 - ⚡ Fun fact: **Mobie App..._**
